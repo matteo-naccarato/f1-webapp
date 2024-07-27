@@ -38,23 +38,23 @@ Front-end: JS / CSS / Bootstrap / HTML
 <hr>
 
 #### Home
-![Home page](./f1_project/assets/images/readme/home.png)
+![Home page](https://github.com/f1saw/f1_project/blob/main/assets/images/readme/home.png)
 
-![Home page](./f1_project/assets/images/readme/home1.png)
+![Home page](https://github.com/f1saw/f1_project/blob/main/assets/images/readme/home1.png)
 <hr>
 
 #### Circuits
-![Circuits page](./f1_project/assets/images/readme/circuits_page.png)
+![Circuits page](https://github.com/f1saw/f1_project/blob/main/assets/images/readme/circuits_page.png)
 <hr>
 
 #### Store
-![Store page](./f1_project/assets/images/readme/store_user.png)
+![Store page](https://github.com/f1saw/f1_project/blob/main/assets/images/readme/store_user.png)
 <hr>
 
 #### Admin dashboard
-![Admin page](./f1_project/assets/images/readme/store_admin.png)
+![Admin page](https://github.com/f1saw/f1_project/blob/main/assets/images/readme/store_admin.png)
 
-
+<hr>
 # F1-DATA
 Dashboard to Analyze data about Formula 1.
 For a proper presentation we suggest to view <a href="https://github.com/f1saw/f1-data/blob/main/F1-ARD.pdf">F1-ARD</a>
@@ -75,13 +75,13 @@ Python<br>
 <hr>
 
 #### SEASONS
-![Seasons](./f1-data/assets/images/seasons.PNG)
+![Seasons](https://github.com/f1saw/f1-data/blob/main/assets/images/seasons.PNG)
 
 #### CIRCUITS
-![Circuits](./f1-data/assets/images/circuits.PNG)
+![Circuits](https://github.com/f1saw/f1-data/blob/main/assets/images/circuits.PNG)
 
 #### DRIVERS
-![Drivers](./f1-data/assets/images/drivers.PNG)
+![Drivers](https://github.com/f1saw/f1-data/blob/main/assets/images/drivers.PNG)
 
 #### TEAMS
-![Teams](./f1-data/assets/images/teams.PNG)
+![Teams](https://github.com/f1saw/f1-data/blob/main/assets/images/teams.PNG)
